@@ -1,1 +1,2 @@
 # dataset
+The data set consists of two parts, in which "HouseholdElectricityInformation" is the actual household electricity consumption data, which contains the active and reactive power, the amplitude and phase angle of each harmonic, etc., and the sampling frequency is 1 Hz. The rest of the files named after the appliances are the waveforms collected by the laboratory for each The first column of the file represents the time axis, and the second and third columns represent the voltage and current respectively, with a sampling frequency of 6.4 kHz.
